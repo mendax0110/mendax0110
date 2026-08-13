@@ -53,5 +53,5 @@
 
 <h2 align="left">👨🏻‍💻Some Stats:</h2>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=mendax0110&theme=blue-green) ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mendax0110&theme=blue-green)
+[![](https://github-stats-extended.vercel.app/api?username=mendax0110)](https://github.com/stats-organization/github-stats-extended)
    
